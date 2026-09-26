@@ -1,0 +1,263 @@
+{
+  "dealership": "North Shore Acura",
+  "generated_at": "2026-09-25T19:00:12",
+  "vehicle_count": 24,
+  "currency": "CAD",
+  "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
+  "vehicles": [
+    {
+      "name": "RDX Tech at2014 Acura",
+      "vin": "5J8TB4H55EL804509",
+      "stock": "A252015",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/b63facccce6a.html",
+      "source_url": "https://www.northshoreacura.ca/en/used-inventory/acura/rdx/2014-acura-rdx-id39131965",
+      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/acura/rdx/2014-acura-rdx-id39131965?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T18:48:39",
+      "price": 12588.0,
+      "price_currency": "CAD",
+      "odometer_km": 204253,
+      "condition": "used"
+    },
+    {
+      "name": "RDX SH-AWD Elite at2021 Acura",
+      "vin": "5J8TC2H79ML805678",
+      "stock": "A262097",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/ef958aa48f0c.html",
+      "source_url": "https://www.northshoreacura.ca/en/used-inventory/acura/rdx/2021-acura-rdx-id39013074",
+      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/acura/rdx/2021-acura-rdx-id39013074?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T18:48:55",
+      "odometer_km": 101965,
+      "condition": "used"
+    },
+    {
+      "name": "Civic Hybrid Sport eCVT Sedan2026 Honda",
+      "vin": "2HGFE4F82TH001720",
+      "stock": "A252001",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/e3c826737e9a.html",
+      "source_url": "https://www.northshoreacura.ca/en/used-inventory/honda/civic-hybrid/2026-honda-civic-hybrid-id39222667",
+      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/honda/civic-hybrid/2026-honda-civic-hybrid-id39222667?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T18:49:11",
+      "odometer_km": 18431,
+      "condition": "used"
+    },
+    {
+      "name": "Civic Type R2024 Honda",
+      "vin": "JHMFL5G41RX800008",
+      "stock": "A32F000",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/8012c18f45c9.html",
+      "source_url": "https://www.northshoreacura.ca/en/used-inventory/honda/civic/2024-honda-civic-id38967651",
+      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/honda/civic/2024-honda-civic-id38967651?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T18:49:26",
+      "odometer_km": 8249,
+      "condition": "used"
+    },
+    {
+      "name": "Civic Sedan Sport CVT2024 Honda",
+      "vin": "2HGFE2F51RH115369",
+      "stock": "A262085",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/8e3ffadf5347.html",
+      "source_url": "https://www.northshoreacura.ca/en/used-inventory/honda/civic/2024-honda-civic-id39246633",
+      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/honda/civic/2024-honda-civic-id39246633?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T18:49:40",
+      "odometer_km": 30113,
+      "condition": "used"
+    },
+    {
+      "name": "CR-V Sport AWD2024 Honda",
+      "vin": "2HKRS4H52RH106023",
+      "stock": "A316058",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/505e2d11ca20.html",
+      "source_url": "https://www.northshoreacura.ca/en/used-inventory/honda/cr-v/2024-honda-cr-v-id39116851",
+      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/honda/cr-v/2024-honda-cr-v-id39116851?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T18:49:56",
+      "odometer_km": 18115,
+      "condition": "used"
+    },
+    {
+      "name": "Odyssey EX-L Auto2024 Honda",
+      "vin": "5FNRL6H64RB504169",
+      "stock": "A262070",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/9d6e9befef77.html",
+      "source_url": "https://www.northshoreacura.ca/en/used-inventory/honda/odyssey/2024-honda-odyssey-id39222668",
+      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/honda/odyssey/2024-honda-odyssey-id39222668?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T18:50:10",
+      "odometer_km": 26000,
+      "condition": "used"
+    },
+    {
+      "name": "Cayenne2019 Porsche",
+      "vin": "WP1AA2AY0KDA16954",
+      "stock": "A316058",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/2825bb02fa25.html",
+      "source_url": "https://www.northshoreacura.ca/en/used-inventory/porsche/cayenne/2019-porsche-cayenne-id39124914",
+      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/porsche/cayenne/2019-porsche-cayenne-id39124914?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T18:50:27",
+      "odometer_km": 115349,
+      "condition": "used"
+    },
+    {
+      "name": "Macan GTS2023 Porsche",
+      "vin": "WP1AF2A54PLB58633",
+      "stock": "A262078",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/eae1adc0e9f5.html",
+      "source_url": "https://www.northshoreacura.ca/en/used-inventory/porsche/macan/2023-porsche-macan-id38727181",
+      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/porsche/macan/2023-porsche-macan-id38727181?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T18:50:42",
+      "odometer_km": 14494,
+      "condition": "used"
+    },
+    {
+      "name": "1500 Tradesman 4x4 Crew Cab 5'7 Box2024 Ram",
+      "vin": "1C6SRFGT3RN178347",
+      "stock": "A316058",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/f4e9e7348f0e.html",
+      "source_url": "https://www.northshoreacura.ca/en/used-inventory/ram/1500/2024-ram-1500-id38860952",
+      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/ram/1500/2024-ram-1500-id38860952?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T18:50:58",
+      "odometer_km": 48266,
+      "condition": "used"
+    },
+    {
+      "name": "Land Cruiser 19582025 Toyota",
+      "vin": "JTEABFAJ5SK044068",
+      "stock": "A32F000",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/c6e0c5d8df05.html",
+      "source_url": "https://www.northshoreacura.ca/en/used-inventory/toyota/land-cruiser/2025-toyota-land-cruiser-id38777503",
+      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/toyota/land-cruiser/2025-toyota-land-cruiser-id38777503?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T18:51:14",
+      "odometer_km": 1453,
+      "condition": "used"
+    },
+    {
+      "name": "XC90 T6 AWD Momentum (6-Seat)2020 Volvo",
+      "vin": "YV4A22PK1L1622619",
+      "stock": "A316058",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/7a921ec42d7d.html",
+      "source_url": "https://www.northshoreacura.ca/en/used-inventory/volvo/xc90/2020-volvo-xc90-id39164059",
+      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/volvo/xc90/2020-volvo-xc90-id39164059?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T18:51:30",
+      "odometer_km": 72400,
+      "condition": "used"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H74TM100413",
+      "stock": "A262043",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/6b391d184642.html",
+      "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38081584?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38081584?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T18:57:11",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H71TM100742",
+      "stock": "A262054",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/32a0d3866080.html",
+      "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38318730?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38318730?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T18:57:27",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H77TM100972",
+      "stock": "A262063",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/54573a596028.html",
+      "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38395055?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38395055?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T18:57:41",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H75TM101456",
+      "stock": "A262065",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/22c395943d7b.html",
+      "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38495065?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38495065?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T18:57:55",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H77TM101457",
+      "stock": "A262066",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/04216014db7b.html",
+      "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38495066?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38495066?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T18:58:10",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H70TM101784",
+      "stock": "A262083",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/a5c711fdfd38.html",
+      "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38570363?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38570363?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T18:58:24",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H7XTM101727",
+      "stock": "A262072",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/188efe836d49.html",
+      "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38579376?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38579376?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T18:58:40",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H73TM101732",
+      "stock": "A262073",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/626d04c238a2.html",
+      "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38579377?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38579377?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T18:58:55",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H71TM101826",
+      "stock": "A262080",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/4907b74ea794.html",
+      "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38605753?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38605753?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T18:59:09",
+      "condition": "new"
+    },
+    {
+      "name": "MDX A-SPEC2026 Acura",
+      "vin": "5J8YE1H02TL801158",
+      "stock": "A262014",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/cb137e4896ed.html",
+      "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id37260126?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id37260126?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T18:59:24",
+      "condition": "new"
+    },
+    {
+      "name": "MDX Type S Ultra2026 Acura",
+      "vin": "5J8YD8H89TL800218",
+      "stock": "A262060",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/a50f37838aa3.html",
+      "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38403661?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38403661?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T18:59:39",
+      "condition": "new"
+    },
+    {
+      "name": "MDX Platinum Elite2026 Acura",
+      "vin": "5J8YE1H94TL803301",
+      "stock": "A262064",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/7d6c9ae783f9.html",
+      "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38478839?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38478839?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T18:59:55",
+      "condition": "new"
+    }
+  ]
+}
