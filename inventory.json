@@ -1,6 +1,6 @@
 {
   "dealership": "North Shore Acura",
-  "generated_at": "2026-09-25T19:00:12",
+  "generated_at": "2026-09-26T18:56:41",
   "vehicle_count": 24,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -12,7 +12,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/b63facccce6a.html",
       "source_url": "https://www.northshoreacura.ca/en/used-inventory/acura/rdx/2014-acura-rdx-id39131965",
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/acura/rdx/2014-acura-rdx-id39131965?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T18:48:39",
+      "last_verified": "2026-09-26T18:54:13",
       "price": 12588.0,
       "price_currency": "CAD",
       "odometer_km": 204253,
@@ -25,7 +25,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/ef958aa48f0c.html",
       "source_url": "https://www.northshoreacura.ca/en/used-inventory/acura/rdx/2021-acura-rdx-id39013074",
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/acura/rdx/2021-acura-rdx-id39013074?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T18:48:55",
+      "last_verified": "2026-09-26T18:54:30",
       "odometer_km": 101965,
       "condition": "used"
     },
@@ -36,7 +36,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/e3c826737e9a.html",
       "source_url": "https://www.northshoreacura.ca/en/used-inventory/honda/civic-hybrid/2026-honda-civic-hybrid-id39222667",
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/honda/civic-hybrid/2026-honda-civic-hybrid-id39222667?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T18:49:11",
+      "last_verified": "2026-09-26T18:54:44",
       "odometer_km": 18431,
       "condition": "used"
     },
@@ -47,7 +47,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/8012c18f45c9.html",
       "source_url": "https://www.northshoreacura.ca/en/used-inventory/honda/civic/2024-honda-civic-id38967651",
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/honda/civic/2024-honda-civic-id38967651?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T18:49:26",
+      "last_verified": "2026-09-26T18:55:02",
       "odometer_km": 8249,
       "condition": "used"
     },
@@ -58,7 +58,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/8e3ffadf5347.html",
       "source_url": "https://www.northshoreacura.ca/en/used-inventory/honda/civic/2024-honda-civic-id39246633",
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/honda/civic/2024-honda-civic-id39246633?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T18:49:40",
+      "last_verified": "2026-09-26T18:55:17",
       "odometer_km": 30113,
       "condition": "used"
     },
@@ -69,7 +69,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/505e2d11ca20.html",
       "source_url": "https://www.northshoreacura.ca/en/used-inventory/honda/cr-v/2024-honda-cr-v-id39116851",
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/honda/cr-v/2024-honda-cr-v-id39116851?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T18:49:56",
+      "last_verified": "2026-09-26T18:55:32",
       "odometer_km": 18115,
       "condition": "used"
     },
@@ -80,7 +80,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/9d6e9befef77.html",
       "source_url": "https://www.northshoreacura.ca/en/used-inventory/honda/odyssey/2024-honda-odyssey-id39222668",
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/honda/odyssey/2024-honda-odyssey-id39222668?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T18:50:10",
+      "last_verified": "2026-09-26T18:55:47",
       "odometer_km": 26000,
       "condition": "used"
     },
@@ -91,7 +91,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/2825bb02fa25.html",
       "source_url": "https://www.northshoreacura.ca/en/used-inventory/porsche/cayenne/2019-porsche-cayenne-id39124914",
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/porsche/cayenne/2019-porsche-cayenne-id39124914?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T18:50:27",
+      "last_verified": "2026-09-26T18:56:02",
       "odometer_km": 115349,
       "condition": "used"
     },
@@ -102,7 +102,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/eae1adc0e9f5.html",
       "source_url": "https://www.northshoreacura.ca/en/used-inventory/porsche/macan/2023-porsche-macan-id38727181",
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/porsche/macan/2023-porsche-macan-id38727181?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T18:50:42",
+      "last_verified": "2026-09-26T18:56:17",
       "odometer_km": 14494,
       "condition": "used"
     },
