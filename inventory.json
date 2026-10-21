@@ -1,7 +1,7 @@
 {
   "dealership": "North Shore Acura",
-  "generated_at": "2026-10-20T20:13:22",
-  "vehicle_count": 1085,
+  "generated_at": "2026-10-20T20:23:41",
+  "vehicle_count": 1102,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -12588,10 +12588,10 @@
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
       "vin": "3HDSA2H71TM100742",
       "stock": "A262054",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/32a0d3866080.html",
-      "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38318730?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
-      "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38318730?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T02:18:25",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/05276571390d.html",
+      "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38318730",
+      "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38318730?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:14:35",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -12700,10 +12700,10 @@
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
       "vin": "3HDSA2H74TM100928",
       "stock": "A262062",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/d960e3cb763f.html",
-      "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38403662?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
-      "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38403662?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T13:29:43",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/d9cc96d83c3a.html",
+      "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38403662",
+      "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38403662?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:14:50",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -12832,10 +12832,10 @@
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
       "vin": "3HDSA2H71TM101826",
       "stock": "A262080",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/4907b74ea794.html",
-      "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38605753?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
-      "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38605753?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T02:17:24",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/57a00793f0ce.html",
+      "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38605753",
+      "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38605753?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:15:06",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -12969,6 +12969,18 @@
       "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38812392",
       "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38812392?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-19T02:55:09",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H7XTM101761",
+      "stock": "A262089",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/bd6c9f7626cb.html",
+      "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38875001",
+      "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38875001?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:15:20",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13131,6 +13143,30 @@
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H76TM102826",
+      "stock": "A262091",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/4b12b9e06780.html",
+      "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38967675",
+      "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38967675?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:15:36",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H7XTM102828",
+      "stock": "A262092",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/924cb6730fc1.html",
+      "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38967676",
+      "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38967676?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:15:52",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
       "vin": "3HDSA2H79TM103274",
       "stock": "A260221",
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/48ffa592f13d.html",
@@ -13160,7 +13196,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/c1eff982f7d2.html",
       "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38992123",
       "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38992123?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T01:59:00",
+      "last_verified": "2026-10-20T20:19:54",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13172,7 +13208,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/4fa178d54c67.html",
       "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38992129",
       "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38992129?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T01:59:16",
+      "last_verified": "2026-10-20T20:20:09",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13184,7 +13220,43 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/793e7af22e38.html",
       "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38992132",
       "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38992132?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T01:59:34",
+      "last_verified": "2026-10-20T20:20:25",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H78TM103167",
+      "stock": "A262098",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/bfd0a1c2c49b.html",
+      "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38999980",
+      "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38999980?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:16:08",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H73TM101763",
+      "stock": "A262099",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/cc1fecc4a9da.html",
+      "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38999981",
+      "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38999981?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:16:22",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H72TM103276",
+      "stock": "A262101",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/828c4ecd4229.html",
+      "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39069342",
+      "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39069342?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:16:38",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13196,7 +13268,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/13c8018e848e.html",
       "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39108439",
       "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39108439?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T01:59:48",
+      "last_verified": "2026-10-20T20:20:42",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13208,7 +13280,19 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/5dd8c0d6220f.html",
       "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39108440",
       "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39108440?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T02:00:04",
+      "last_verified": "2026-10-20T20:20:59",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H78TM103508",
+      "stock": "A262110",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/74b5066600aa.html",
+      "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39140547",
+      "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39140547?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:16:52",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13220,7 +13304,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/8b2665ca9507.html",
       "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39150640",
       "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39150640?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T02:00:19",
+      "last_verified": "2026-10-20T20:21:15",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13232,7 +13316,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/1e829fa693f4.html",
       "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39150642",
       "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39150642?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T02:00:35",
+      "last_verified": "2026-10-20T20:21:31",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13244,19 +13328,19 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/1ae9d61e1858.html",
       "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39150644",
       "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39150644?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T02:00:50",
+      "last_verified": "2026-10-20T20:21:46",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
     },
     {
-      "name": "ADX Platinum Elite A-SPEC2026 Acura",
-      "vin": "3HDSA2H7XTM103574",
-      "stock": "A260175",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/4c838dd90e8d.html",
-      "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39177900",
-      "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39177900?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T02:01:06",
+      "name": "ADX A-SPEC2026 Acura",
+      "vin": "3HDSA2H51TM103543",
+      "stock": "A262108",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/9cd6ecdf5481.html",
+      "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39184732",
+      "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39184732?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:17:08",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13268,7 +13352,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/cea4fa34595d.html",
       "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39192158",
       "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39192158?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T02:01:21",
+      "last_verified": "2026-10-20T20:22:00",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13280,7 +13364,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/4b56bca024f2.html",
       "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39192159",
       "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39192159?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T02:01:36",
+      "last_verified": "2026-10-20T20:22:14",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13292,7 +13376,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/4328cb365130.html",
       "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39200166",
       "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39200166?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T02:01:51",
+      "last_verified": "2026-10-20T20:22:28",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13304,7 +13388,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/544b183ca41e.html",
       "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39200167",
       "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39200167?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T02:02:05",
+      "last_verified": "2026-10-20T20:22:43",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13316,7 +13400,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/70236ee88738.html",
       "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39200168",
       "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39200168?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T02:02:20",
+      "last_verified": "2026-10-20T20:22:57",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13328,7 +13412,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/ac624d787cc3.html",
       "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39200169",
       "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39200169?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T02:02:36",
+      "last_verified": "2026-10-20T20:23:12",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13340,7 +13424,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/17a5f69881a8.html",
       "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39200170",
       "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39200170?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T02:02:50",
+      "last_verified": "2026-10-20T20:23:27",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13353,6 +13437,18 @@
       "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39207245",
       "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39207245?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T02:03:06",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H72TM103861",
+      "stock": "A262109",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/d330ddb1f884.html",
+      "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39274913",
+      "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39274913?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:17:22",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13595,6 +13691,30 @@
       "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id39177901",
       "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id39177901?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T02:07:34",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Integra Elite A-Spec CVT2026 Acura",
+      "vin": "19UDE4H61TA800891",
+      "stock": "A262105",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/a18f8381efc2.html",
+      "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id39200256",
+      "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id39200256?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:17:38",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Integra Elite A-Spec CVT2026 Acura",
+      "vin": "19UDE4H68TA800726",
+      "stock": "A262072",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/25e24e0f4321.html",
+      "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id39360598?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id39360598?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:17:54",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13869,6 +13989,30 @@
       "province": "BC"
     },
     {
+      "name": "MDX Platinum Elite2026 Acura",
+      "vin": "5J8YE1H96TL804384",
+      "stock": "A262093",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/29cb03c88fa2.html",
+      "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38908464",
+      "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38908464?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:18:08",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "MDX A-SPEC2026 Acura",
+      "vin": "5J8YE1H08TL804324",
+      "stock": "A262094",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/15e407e45260.html",
+      "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38967679",
+      "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38967679?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:18:22",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "MDX A-SPEC2026 Acura",
       "vin": "5J8YE1H08TL804985",
       "stock": "A260216",
@@ -13941,6 +14085,18 @@
       "province": "BC"
     },
     {
+      "name": "MDX A-SPEC2026 Acura",
+      "vin": "5J8YE1H06TL804905",
+      "stock": "A262106",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/8b2caa8902e9.html",
+      "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id39158151?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id39158151?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:18:36",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "MDX Platinum Elite2026 Acura",
       "vin": "5J8YE1H94TL805159",
       "stock": "A260177",
@@ -13948,6 +14104,18 @@
       "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id39184542",
       "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id39184542?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T02:14:09",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "MDX Platinum Elite2026 Acura",
+      "vin": "5J8YE1H90TL805224",
+      "stock": "A262107",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/a47779c9ec5f.html",
+      "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id39207366",
+      "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id39207366?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:18:52",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13984,6 +14152,42 @@
       "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id39332883",
       "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id39332883?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T02:14:53",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "MDX Platinum Elite2026 Acura",
+      "vin": "5J8YE1H9XTL805649",
+      "stock": "A261564",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/b324df4be19b.html",
+      "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id39340957",
+      "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id39340957?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:19:07",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "MDX A-SPEC2026 Acura",
+      "vin": "5J8YE1H02TL805551",
+      "stock": "A261555",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/8e993eddc1ac.html",
+      "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id39340958?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id39340958?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:19:23",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "MDX A-SPEC2026 Acura",
+      "vin": "5J8YE1H00TL805483",
+      "stock": "A261548",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/0c0f1c88dbd8.html",
+      "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id39340959",
+      "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id39340959?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T20:19:39",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
