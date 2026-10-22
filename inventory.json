@@ -1,6 +1,6 @@
 {
   "dealership": "North Shore Acura",
-  "generated_at": "2026-10-22T03:35:53",
+  "generated_at": "2026-10-22T03:41:09",
   "vehicle_count": 1118,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -13135,18 +13135,6 @@
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
-      "vin": "3HDSA2H79TM102934",
-      "stock": "A260197",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/c237f349551d.html",
-      "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38792198",
-      "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id38792198?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T02:54:23",
-      "condition": "new",
-      "city": "North Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "ADX Platinum Elite A-SPEC2026 Acura",
       "vin": "3HDSA2H70TM102837",
       "stock": "A260195",
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/2780d70da284.html",
@@ -13644,7 +13632,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/7bfa8d6ad5a2.html",
       "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39207245",
       "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39207245?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T02:03:06",
+      "last_verified": "2026-10-22T03:37:28",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13668,7 +13656,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/f36996ac865d.html",
       "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39332878",
       "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39332878?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T02:03:22",
+      "last_verified": "2026-10-22T03:37:42",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13680,7 +13668,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/425428dc9cb9.html",
       "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39332879",
       "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39332879?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T02:03:37",
+      "last_verified": "2026-10-22T03:37:58",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13692,7 +13680,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/ce3f37c65a81.html",
       "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39332881",
       "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39332881?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T02:03:53",
+      "last_verified": "2026-10-22T03:38:12",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13704,7 +13692,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/2fe6f9dbf7a1.html",
       "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39332882",
       "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/adx/2026-acura-adx-id39332882?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T02:04:09",
+      "last_verified": "2026-10-22T03:38:28",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13764,7 +13752,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/e4a44def06c7.html",
       "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/integra/2025-acura-integra-id33899907",
       "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/integra/2025-acura-integra-id33899907?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T02:04:25",
+      "last_verified": "2026-10-22T03:38:43",
       "odometer_km": 6520,
       "condition": "new",
       "city": "North Vancouver",
@@ -13777,7 +13765,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/4cac092d26f4.html",
       "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/integra/2025-acura-integra-id36363908",
       "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/integra/2025-acura-integra-id36363908?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T02:04:39",
+      "last_verified": "2026-10-22T03:38:57",
       "odometer_km": 3507,
       "condition": "new",
       "city": "North Vancouver",
@@ -13790,7 +13778,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/10ef2a5bd776.html",
       "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id38508717",
       "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id38508717?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T02:04:53",
+      "last_verified": "2026-10-22T03:39:13",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13802,7 +13790,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/b4927fd6f30b.html",
       "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id38508727",
       "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id38508727?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T02:05:10",
+      "last_verified": "2026-10-22T03:39:29",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13814,7 +13802,19 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/4c808bc8dfc1.html",
       "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id38734811",
       "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id38734811?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T02:05:25",
+      "last_verified": "2026-10-22T03:39:43",
+      "condition": "new",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Integra A-Spec CVT2026 Acura",
+      "vin": "19UDE4H32TA800646",
+      "stock": "A260135",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/9ec58db06c26.html",
+      "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id38734812",
+      "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id38734812?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T03:37:14",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13826,7 +13826,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/d8df71ba69ed.html",
       "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id38734815",
       "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id38734815?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T02:06:00",
+      "last_verified": "2026-10-22T03:39:58",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13838,7 +13838,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/c6c51804952e.html",
       "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id38992125",
       "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id38992125?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T02:06:17",
+      "last_verified": "2026-10-22T03:40:12",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13850,7 +13850,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/2dbb539ce7ba.html",
       "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id38992128",
       "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id38992128?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T02:06:32",
+      "last_verified": "2026-10-22T03:40:28",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13862,7 +13862,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/ada50fcbfab3.html",
       "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id39150639",
       "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id39150639?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T02:06:48",
+      "last_verified": "2026-10-22T03:40:42",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
@@ -13874,7 +13874,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/774c564d1ad9.html",
       "source_url": "https://www.northshoreacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id39150641",
       "dealer_url": "https://www.northshoreacura.ca/en/new-inventory/acura/integra/2026-acura-integra-id39150641?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T02:07:04",
+      "last_verified": "2026-10-22T03:40:57",
       "condition": "new",
       "city": "North Vancouver",
       "province": "BC"
