@@ -1,7 +1,7 @@
 {
   "dealership": "North Shore Acura",
-  "generated_at": "2026-10-22T14:31:21",
-  "vehicle_count": 1118,
+  "generated_at": "2026-10-23T00:25:22",
+  "vehicle_count": 1114,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -177,6 +177,19 @@
       "province": "BC"
     },
     {
+      "name": "MDX A-Spec SH-AWD2020 Acura",
+      "vin": "5J8YD4H02LL802976",
+      "stock": "A216020",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/d525a0d4734b.html",
+      "source_url": "https://www.northshoreacura.ca/en/used-inventory/acura/mdx/2020-acura-mdx-id39246456",
+      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/acura/mdx/2020-acura-mdx-id39246456?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-23T00:12:29",
+      "odometer_km": 174325,
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "MDX SH-AWD at w/ Platinum Elite Pkg2022 Acura",
       "vin": "5J8YE1H87NL803710",
       "stock": "A113012",
@@ -263,6 +276,19 @@
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39274741?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-19T02:46:24",
       "odometer_km": 14581,
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "MDX A-Spec SH-AWD2025 Acura",
+      "vin": "5J8YE1H07SL803485",
+      "stock": "A22F003",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/60adfa08d14b.html",
+      "source_url": "https://www.northshoreacura.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39360486",
+      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39360486?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-23T00:12:45",
+      "odometer_km": 11360,
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -705,21 +731,6 @@
       "province": "BC"
     },
     {
-      "name": "Q7 3.0T Vorsprung Ed. quattro 8sp Tiptronic2015 Audi",
-      "vin": "WA1WGCFEXFD017880",
-      "stock": "2651448",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/fcac98b6c0a3.html",
-      "source_url": "https://www.northshoreacura.ca/en/used-inventory/audi/q7/2015-audi-q7-id39332919",
-      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/audi/q7/2015-audi-q7-id39332919?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T20:10:33",
-      "price": 21188.0,
-      "price_currency": "CAD",
-      "odometer_km": 91008,
-      "condition": "used",
-      "city": "North Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Q7 3.0T Technik quattro 8sp Tiptronic2017 Audi",
       "vin": "WA1WABF73HD025173",
       "stock": "A262111",
@@ -806,6 +817,19 @@
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/audi/rs-6-avant/2021-audi-rs-6-avant-id39158035?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-20T20:12:06",
       "odometer_km": 82450,
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "RS 6 Avant 4.0T quattro 8sp S-tronic2022 Audi",
+      "vin": "WUA1CBF28NN901033",
+      "stock": "MB62C00",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/618199e438ee.html",
+      "source_url": "https://www.northshoreacura.ca/en/used-inventory/audi/rs-6-avant/2022-audi-rs-6-avant-id39404810",
+      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/audi/rs-6-avant/2022-audi-rs-6-avant-id39404810?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-23T00:12:59",
+      "odometer_km": 77813,
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -1019,6 +1043,19 @@
       "province": "BC"
     },
     {
+      "name": "228i xDrive Gran Coupe2021 BMW",
+      "vin": "WBA73AK06M7G62798",
+      "stock": "A22E002",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/06029a421566.html",
+      "source_url": "https://www.northshoreacura.ca/en/used-inventory/bmw/228i/2021-bmw-228i-id39404748",
+      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/bmw/228i/2021-bmw-228i-id39404748?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-23T00:13:13",
+      "odometer_km": 43320,
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "330i xDrive Sedan2026 BMW",
       "vin": "3MW89CW09T8G31998",
       "stock": "MB32B00",
@@ -1027,6 +1064,19 @@
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/bmw/330i/2026-bmw-330i-id39069335?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-22T03:34:55",
       "odometer_km": 14901,
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "440i xDrive Coupe2017 BMW",
+      "vin": "WBA4P3C50HK528527",
+      "stock": "L26660A",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/1f7dd27de06f.html",
+      "source_url": "https://www.northshoreacura.ca/en/used-inventory/bmw/440i/2017-bmw-440i-id39281913",
+      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/bmw/440i/2017-bmw-440i-id39281913?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-23T00:13:48",
+      "odometer_km": 118781,
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -1190,19 +1240,6 @@
       "province": "BC"
     },
     {
-      "name": "M3 Competition M xDrive2023 BMW",
-      "vin": "WBS43AY03PFP94317",
-      "stock": "MB12F01",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/720e6fb26f42.html",
-      "source_url": "https://www.northshoreacura.ca/en/used-inventory/bmw/m3/2023-bmw-m3-id39340975",
-      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/bmw/m3/2023-bmw-m3-id39340975?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T14:21:23",
-      "odometer_km": 35383,
-      "condition": "used",
-      "city": "North Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "M3 Competition2025 BMW",
       "vin": "WBS33HJ06SFU76943",
       "stock": "JL11708",
@@ -1287,8 +1324,8 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/fad37a06c811.html",
       "source_url": "https://www.northshoreacura.ca/en/used-inventory/bmw/x1/2014-bmw-x1-id39281954",
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/bmw/x1/2014-bmw-x1-id39281954?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T21:50:26",
-      "price": 15699.0,
+      "last_verified": "2026-10-23T00:21:25",
+      "price": 15220.0,
       "price_currency": "CAD",
       "odometer_km": 107091,
       "condition": "used",
@@ -1302,7 +1339,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/754309593ee9.html",
       "source_url": "https://www.northshoreacura.ca/en/used-inventory/bmw/x1/2019-bmw-x1-id38900530",
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/bmw/x1/2019-bmw-x1-id38900530?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T21:50:43",
+      "last_verified": "2026-10-23T00:21:39",
       "odometer_km": 117000,
       "condition": "used",
       "city": "North Vancouver",
@@ -1315,7 +1352,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/d4ce2d4320b0.html",
       "source_url": "https://www.northshoreacura.ca/en/used-inventory/bmw/x1/2024-bmw-x1-id39026464",
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/bmw/x1/2024-bmw-x1-id39026464?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T21:51:29",
+      "last_verified": "2026-10-23T00:21:54",
       "odometer_km": 18700,
       "condition": "used",
       "city": "North Vancouver",
@@ -1328,23 +1365,8 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/3e426722ff36.html",
       "source_url": "https://www.northshoreacura.ca/en/used-inventory/bmw/x1/2025-bmw-x1-id39042628",
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/bmw/x1/2025-bmw-x1-id39042628?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T21:51:43",
+      "last_verified": "2026-10-23T00:22:10",
       "odometer_km": 40473,
-      "condition": "used",
-      "city": "North Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "X3 xDrive35i M Sport Line2014 BMW",
-      "vin": "5UXWX7C53E0E75446",
-      "stock": "2665909",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/a5712a028fb4.html",
-      "source_url": "https://www.northshoreacura.ca/en/used-inventory/bmw/x3/2014-bmw-x3-id39399407",
-      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/bmw/x3/2014-bmw-x3-id39399407?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T03:19:12",
-      "price": 14188.0,
-      "price_currency": "CAD",
-      "odometer_km": 113173,
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -1356,7 +1378,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/6740dedde818.html",
       "source_url": "https://www.northshoreacura.ca/en/used-inventory/bmw/x3/2019-bmw-x3-id39174591",
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/bmw/x3/2019-bmw-x3-id39174591?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T21:51:57",
+      "last_verified": "2026-10-23T00:22:27",
       "odometer_km": 133020,
       "condition": "used",
       "city": "North Vancouver",
@@ -1369,7 +1391,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/116b1ad53e88.html",
       "source_url": "https://www.northshoreacura.ca/en/used-inventory/bmw/x3/2024-bmw-x3-id39340942",
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/bmw/x3/2024-bmw-x3-id39340942?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T21:52:14",
+      "last_verified": "2026-10-23T00:22:41",
       "odometer_km": 44201,
       "condition": "used",
       "city": "North Vancouver",
@@ -1382,7 +1404,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/a9b4acc8d899.html",
       "source_url": "https://www.northshoreacura.ca/en/used-inventory/bmw/x3/2026-bmw-x3-id38818153",
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/bmw/x3/2026-bmw-x3-id38818153?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T21:52:28",
+      "last_verified": "2026-10-23T00:22:58",
       "odometer_km": 3910,
       "condition": "used",
       "city": "North Vancouver",
@@ -1395,7 +1417,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/96c9a674ae50.html",
       "source_url": "https://www.northshoreacura.ca/en/used-inventory/bmw/x5/2018-bmw-x5-id39326953",
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/bmw/x5/2018-bmw-x5-id39326953?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T21:52:44",
+      "last_verified": "2026-10-23T00:23:14",
       "odometer_km": 74048,
       "condition": "used",
       "city": "North Vancouver",
@@ -1408,21 +1430,8 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/ae268d635768.html",
       "source_url": "https://www.northshoreacura.ca/en/used-inventory/bmw/x5/2021-bmw-x5-id39267232",
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/bmw/x5/2021-bmw-x5-id39267232?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T21:53:28",
+      "last_verified": "2026-10-23T00:23:30",
       "odometer_km": 63044,
-      "condition": "used",
-      "city": "North Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "X5 xDrive45e2022 BMW",
-      "vin": "5UXTA6C09N9L27751",
-      "stock": "A12F001",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/f3fb85e3dd0b.html",
-      "source_url": "https://www.northshoreacura.ca/en/used-inventory/bmw/x5/2022-bmw-x5-id39375249",
-      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/bmw/x5/2022-bmw-x5-id39375249?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T21:53:43",
-      "odometer_km": 53390,
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -1434,21 +1443,8 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/2b5e7e150b95.html",
       "source_url": "https://www.northshoreacura.ca/en/used-inventory/bmw/x5/2025-bmw-x5-id38827156",
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/bmw/x5/2025-bmw-x5-id38827156?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T21:53:58",
+      "last_verified": "2026-10-23T00:23:46",
       "odometer_km": 50805,
-      "condition": "used",
-      "city": "North Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "X6 xDrive35i2018 BMW",
-      "vin": "5UXKU2C56J0X51264",
-      "stock": "G26123",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/c3ab63dc0531.html",
-      "source_url": "https://www.northshoreacura.ca/en/used-inventory/bmw/x6/2018-bmw-x6-id39393321",
-      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/bmw/x6/2018-bmw-x6-id39393321?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T03:19:26",
-      "odometer_km": 159116,
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -1460,7 +1456,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/b7e2fd7bb3f3.html",
       "source_url": "https://www.northshoreacura.ca/en/used-inventory/bmw/x6/2026-bmw-x6-id38777497",
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/bmw/x6/2026-bmw-x6-id38777497?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T21:54:27",
+      "last_verified": "2026-10-23T00:24:01",
       "odometer_km": 7155,
       "condition": "used",
       "city": "North Vancouver",
@@ -1473,7 +1469,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/528ccc54e7a0.html",
       "source_url": "https://www.northshoreacura.ca/en/used-inventory/bmw/x7/2019-bmw-x7-id39222675",
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/bmw/x7/2019-bmw-x7-id39222675?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T21:54:42",
+      "last_verified": "2026-10-23T00:24:21",
       "odometer_km": 159869,
       "condition": "used",
       "city": "North Vancouver",
@@ -1499,7 +1495,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/3eb89f075dea.html",
       "source_url": "https://www.northshoreacura.ca/en/used-inventory/bmw/x7/2024-bmw-x7-id38425957",
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/bmw/x7/2024-bmw-x7-id38425957?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T21:54:57",
+      "last_verified": "2026-10-23T00:24:36",
       "odometer_km": 50976,
       "condition": "used",
       "city": "North Vancouver",
@@ -1512,7 +1508,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/8ec543a12a5d.html",
       "source_url": "https://www.northshoreacura.ca/en/used-inventory/bmw/z4/2022-bmw-z4-id38656856",
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/bmw/z4/2022-bmw-z4-id38656856?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T21:55:11",
+      "last_verified": "2026-10-23T00:24:51",
       "odometer_km": 16000,
       "condition": "used",
       "city": "North Vancouver",
@@ -1525,7 +1521,7 @@
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/e17033d3d93e.html",
       "source_url": "https://www.northshoreacura.ca/en/used-inventory/buick/envista/2024-buick-envista-id39012554",
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/buick/envista/2024-buick-envista-id39012554?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T21:55:26",
+      "last_verified": "2026-10-23T00:25:08",
       "odometer_km": 32106,
       "condition": "used",
       "city": "North Vancouver",
@@ -1553,6 +1549,21 @@
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/cadillac/cts/2018-cadillac-cts-id39018396?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T21:55:54",
       "odometer_km": 62680,
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Escalade Platinum2015 Cadillac",
+      "vin": "1GYS4NKJ2FR511675",
+      "stock": "H316037",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/3efef028f15d.html",
+      "source_url": "https://www.northshoreacura.ca/en/used-inventory/cadillac/escalade/2015-cadillac-escalade-id39404755",
+      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/cadillac/escalade/2015-cadillac-escalade-id39404755?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-23T00:14:04",
+      "price": 29760.0,
+      "price_currency": "CAD",
+      "odometer_km": 145547,
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -1646,6 +1657,19 @@
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/chevrolet/colorado/2022-chevrolet-colorado-id39289987?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T21:58:13",
       "odometer_km": 94337,
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Corvette Coupe Z062019 Chevrolet",
+      "vin": "1G1YN2D63K5606518",
+      "stock": "N115503",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/e982023198e6.html",
+      "source_url": "https://www.northshoreacura.ca/en/used-inventory/chevrolet/corvette/2019-chevrolet-corvette-id39387648",
+      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/chevrolet/corvette/2019-chevrolet-corvette-id39387648?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-23T00:14:20",
+      "odometer_km": 33200,
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -1843,19 +1867,6 @@
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/chevrolet/trailblazer/2024-chevrolet-trailblazer-id39116718?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T22:02:03",
       "odometer_km": 72907,
-      "condition": "used",
-      "city": "North Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Trax FWD LT2022 Chevrolet",
-      "vin": "KL7CJLSM8NB521570",
-      "stock": "H116985",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/51c56aa12736.html",
-      "source_url": "https://www.northshoreacura.ca/en/used-inventory/chevrolet/trax/2022-chevrolet-trax-id38887348",
-      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/chevrolet/trax/2022-chevrolet-trax-id38887348?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T22:02:18",
-      "odometer_km": 30334,
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -2115,19 +2126,6 @@
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/ford/escape/2017-ford-escape-id38860974?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T22:06:38",
       "odometer_km": 94174,
-      "condition": "used",
-      "city": "North Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Escape Platinum AWD2025 Ford",
-      "vin": "1FMCU9JA4SUA90130",
-      "stock": "JL12B07",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/63c622ff9fb5.html",
-      "source_url": "https://www.northshoreacura.ca/en/used-inventory/ford/escape/2025-ford-escape-id38713791",
-      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/ford/escape/2025-ford-escape-id38713791?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T22:06:53",
-      "odometer_km": 19600,
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -2787,14 +2785,27 @@
       "province": "BC"
     },
     {
-      "name": "Accord Sedan 2.0 Sport 10AT2021 Honda",
-      "vin": "1HGCV2F38MA800848",
-      "stock": "H313037",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/1211f2219524.html",
-      "source_url": "https://www.northshoreacura.ca/en/used-inventory/honda/accord/2021-honda-accord-id39392974",
-      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/honda/accord/2021-honda-accord-id39392974?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T03:21:02",
-      "odometer_km": 97960,
+      "name": "Accord Sedan Sport CVT2020 Honda",
+      "vin": "1HGCV1F30LA804112",
+      "stock": "H261287",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/5ce284119936.html",
+      "source_url": "https://www.northshoreacura.ca/en/used-inventory/honda/accord/2020-honda-accord-id39404673",
+      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/honda/accord/2020-honda-accord-id39404673?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-23T00:14:35",
+      "odometer_km": 144061,
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Accord Sedan Touring CVT2021 Honda",
+      "vin": "1HGCV1F95MA800367",
+      "stock": "H212000",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/daa4288299d6.html",
+      "source_url": "https://www.northshoreacura.ca/en/used-inventory/honda/accord/2021-honda-accord-id38944997",
+      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/honda/accord/2021-honda-accord-id38944997?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-23T00:14:51",
+      "odometer_km": 129416,
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -2821,19 +2832,6 @@
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/honda/accord/2024-honda-accord-id39055798?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T22:21:09",
       "odometer_km": 118622,
-      "condition": "used",
-      "city": "North Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Civic Hybrid Sport eCVT Sedan2025 Honda",
-      "vin": "2HGFE4F83SH004270",
-      "stock": "H126185",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/4e5a3a1252bb.html",
-      "source_url": "https://www.northshoreacura.ca/en/used-inventory/honda/civic-hybrid/2025-honda-civic-hybrid-id39274583",
-      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/honda/civic-hybrid/2025-honda-civic-hybrid-id39274583?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T22:21:25",
-      "odometer_km": 15000,
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -2888,6 +2886,19 @@
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/honda/civic/2017-honda-civic-id39274760?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-20T20:00:22",
       "odometer_km": 157800,
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Civic Coupe EX-T CVT HS2017 Honda",
+      "vin": "2HGFC3B4XHH451867",
+      "stock": "N116504",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/70ffffa1d723.html",
+      "source_url": "https://www.northshoreacura.ca/en/used-inventory/honda/civic/2017-honda-civic-id39399466",
+      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/honda/civic/2017-honda-civic-id39399466?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-23T00:15:06",
+      "odometer_km": 168413,
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -3151,19 +3162,6 @@
       "province": "BC"
     },
     {
-      "name": "CR-V Hybrid Touring AWD2025 Honda",
-      "vin": "2HKRS6H97SH201522",
-      "stock": "26H1124",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/98be2ae246cc.html",
-      "source_url": "https://www.northshoreacura.ca/en/used-inventory/honda/cr-v-hybrid/2025-honda-cr-v-hybrid-id39289841",
-      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/honda/cr-v-hybrid/2025-honda-cr-v-hybrid-id39289841?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T22:28:54",
-      "odometer_km": 80673,
-      "condition": "used",
-      "city": "North Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "CR-V Hybrid EX-L AWD2025 Honda",
       "vin": "2HKRS6H79SH210043",
       "stock": "H126280",
@@ -3185,19 +3183,6 @@
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/honda/cr-v-hybrid/2025-honda-cr-v-hybrid-id39354604?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T22:29:38",
       "odometer_km": 34976,
-      "condition": "used",
-      "city": "North Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "CR-V Hybrid EX-L AWD2025 Honda",
-      "vin": "2HKRS6H70SH216426",
-      "stock": "H126164",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/010e07b85dd5.html",
-      "source_url": "https://www.northshoreacura.ca/en/used-inventory/honda/cr-v-hybrid/2025-honda-cr-v-hybrid-id39399086",
-      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/honda/cr-v-hybrid/2025-honda-cr-v-hybrid-id39399086?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T03:21:31",
-      "odometer_km": 16888,
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -3258,14 +3243,16 @@
       "province": "BC"
     },
     {
-      "name": "CR-V Touring AWD CVT2019 Honda",
-      "vin": "2HKRW2H91KH119217",
-      "stock": "H313038",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/6f63a0aa7fec.html",
-      "source_url": "https://www.northshoreacura.ca/en/used-inventory/honda/cr-v/2019-honda-cr-v-id39132072",
-      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/honda/cr-v/2019-honda-cr-v-id39132072?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T22:31:24",
-      "odometer_km": 77321,
+      "name": "CR-V EX 2WD2014 Honda",
+      "vin": "2HKRM3H57EH000732",
+      "stock": "H126111",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/d97625bf5c51.html",
+      "source_url": "https://www.northshoreacura.ca/en/used-inventory/honda/cr-v/2014-honda-cr-v-id39405390",
+      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/honda/cr-v/2014-honda-cr-v-id39405390?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-23T00:15:21",
+      "price": 14199.0,
+      "price_currency": "CAD",
+      "odometer_km": 178419,
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -3323,14 +3310,14 @@
       "province": "BC"
     },
     {
-      "name": "CR-V LX-B AWD2024 Honda",
-      "vin": "2HKRS4H26RH114292",
-      "stock": "H26644A",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/8d14156aa082.html",
-      "source_url": "https://www.northshoreacura.ca/en/used-inventory/honda/cr-v/2024-honda-cr-v-id39332706",
-      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/honda/cr-v/2024-honda-cr-v-id39332706?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T22:32:11",
-      "odometer_km": 47505,
+      "name": "CR-V Sport 4WD2023 Honda",
+      "vin": "2HKRS4H58PH101759",
+      "stock": "H261109",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/d6d8cd2faf13.html",
+      "source_url": "https://www.northshoreacura.ca/en/used-inventory/honda/cr-v/2023-honda-cr-v-id39404674",
+      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/honda/cr-v/2023-honda-cr-v-id39404674?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-23T00:15:36",
+      "odometer_km": 45560,
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -3350,19 +3337,6 @@
       "province": "BC"
     },
     {
-      "name": "HR-V EX 4WD CVT2016 Honda",
-      "vin": "3CZRU6H51GM104318",
-      "stock": "26H407A",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/3f22b5d6976d.html",
-      "source_url": "https://www.northshoreacura.ca/en/used-inventory/honda/hr-v/2016-honda-hr-v-id39325478",
-      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/honda/hr-v/2016-honda-hr-v-id39325478?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T22:33:09",
-      "odometer_km": 206387,
-      "condition": "used",
-      "city": "North Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "HR-V EX-L Navi 4WD CVT2023 Honda",
       "vin": "3CZRZ2H73PM101433",
       "stock": "H127209",
@@ -3371,45 +3345,6 @@
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/honda/hr-v/2023-honda-hr-v-id39297433?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T22:33:25",
       "odometer_km": 32493,
-      "condition": "used",
-      "city": "North Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "HR-V EX-L Navi 4WD CVT2023 Honda",
-      "vin": "3CZRZ2H7XPM104393",
-      "stock": "H27023A",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/12b69aaa6e2c.html",
-      "source_url": "https://www.northshoreacura.ca/en/used-inventory/honda/hr-v/2023-honda-hr-v-id39340759",
-      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/honda/hr-v/2023-honda-hr-v-id39340759?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T22:33:39",
-      "odometer_km": 43723,
-      "condition": "used",
-      "city": "North Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "HR-V LX-B FWD CVT2024 Honda",
-      "vin": "3CZRZ1H32RM100672",
-      "stock": "H313037",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/6cb67c216f7f.html",
-      "source_url": "https://www.northshoreacura.ca/en/used-inventory/honda/hr-v/2024-honda-hr-v-id39026363",
-      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/honda/hr-v/2024-honda-hr-v-id39026363?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T22:33:53",
-      "odometer_km": 20539,
-      "condition": "used",
-      "city": "North Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "HR-V EX-L Navi AWD CVT2024 Honda",
-      "vin": "3CZRZ2H71RM100879",
-      "stock": "H126223",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/f63719b2d2f3.html",
-      "source_url": "https://www.northshoreacura.ca/en/used-inventory/honda/hr-v/2024-honda-hr-v-id39274585",
-      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/honda/hr-v/2024-honda-hr-v-id39274585?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T22:34:10",
-      "odometer_km": 24777,
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -3662,19 +3597,6 @@
       "province": "BC"
     },
     {
-      "name": "Pilot Touring 8P2022 Honda",
-      "vin": "5FNYF6H99NB505633",
-      "stock": "H313039",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/4b94e57725b1.html",
-      "source_url": "https://www.northshoreacura.ca/en/used-inventory/honda/pilot/2022-honda-pilot-id39274759",
-      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/honda/pilot/2022-honda-pilot-id39274759?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T22:39:28",
-      "odometer_km": 48526,
-      "condition": "used",
-      "city": "North Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Pilot Touring 7P2022 Honda",
       "vin": "5FNYF6H61NB502988",
       "stock": "H27038A",
@@ -3734,21 +3656,6 @@
       "source_url": "https://www.northshoreacura.ca/en/used-inventory/honda/prologue/2026-honda-prologue-id38792242",
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/honda/prologue/2026-honda-prologue-id38792242?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T22:41:01",
-      "condition": "used",
-      "city": "North Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Ridgeline EX-L NAVI2009 Honda",
-      "vin": "2HJYK16509H000218",
-      "stock": "H127211",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/7024ee976c27.html",
-      "source_url": "https://www.northshoreacura.ca/en/used-inventory/honda/ridgeline/2009-honda-ridgeline-id39393435",
-      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/honda/ridgeline/2009-honda-ridgeline-id39393435?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T03:22:32",
-      "price": 8999.0,
-      "price_currency": "CAD",
-      "odometer_km": 220068,
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -3832,6 +3739,19 @@
       "province": "BC"
     },
     {
+      "name": "Elantra Sedan N Line2022 Hyundai",
+      "vin": "KMHLW4AK9NU008046",
+      "stock": "26H571A",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/fc1d61156412.html",
+      "source_url": "https://www.northshoreacura.ca/en/used-inventory/hyundai/elantra-sedan/2022-hyundai-elantra-sedan-id39289843",
+      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/hyundai/elantra-sedan/2022-hyundai-elantra-sedan-id39289843?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-23T00:15:51",
+      "odometer_km": 47000,
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Elantra GLS at2013 Hyundai",
       "vin": "5NPDH4AE1DH363525",
       "stock": "S116010",
@@ -3842,19 +3762,6 @@
       "price": 9999.0,
       "price_currency": "CAD",
       "odometer_km": 100167,
-      "condition": "used",
-      "city": "North Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Ioniq 5 Essential RWD2022 Hyundai",
-      "vin": "KM8KM4AB9NU093942",
-      "stock": "H116988",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/a4e9e92abe03.html",
-      "source_url": "https://www.northshoreacura.ca/en/used-inventory/hyundai/ioniq-5/2022-hyundai-ioniq-5-id39314479",
-      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/hyundai/ioniq-5/2022-hyundai-ioniq-5-id39314479?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T22:43:57",
-      "odometer_km": 66633,
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -4037,6 +3944,19 @@
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/hyundai/venue/2024-hyundai-venue-id39264322?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T22:48:13",
       "odometer_km": 34047,
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Venue Preferred IVT2024 Hyundai",
+      "vin": "KMHRC8A32RU282231",
+      "stock": "A22E003",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/c973e0acc689.html",
+      "source_url": "https://www.northshoreacura.ca/en/used-inventory/hyundai/venue/2024-hyundai-venue-id39404747",
+      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/hyundai/venue/2024-hyundai-venue-id39404747?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-23T00:16:07",
+      "odometer_km": 11069,
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -4603,19 +4523,6 @@
       "province": "BC"
     },
     {
-      "name": "Seltos EX AWD2022 Kia",
-      "vin": "KNDEUCAA3N7284774",
-      "stock": "MB71603",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/6575ea355e31.html",
-      "source_url": "https://www.northshoreacura.ca/en/used-inventory/kia/seltos/2022-kia-seltos-id39184624",
-      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/kia/seltos/2022-kia-seltos-id39184624?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T22:59:41",
-      "odometer_km": 62220,
-      "condition": "used",
-      "city": "North Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Seltos SX Turbo AWD w/Black Interior2024 Kia",
       "vin": "KNDETCA78R7556667",
       "stock": "A262102",
@@ -5172,19 +5079,6 @@
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/land-rover/range-rover-sport/2016-land-rover-range-rover-sport-id39264301?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T23:11:09",
       "odometer_km": 156000,
-      "condition": "used",
-      "city": "North Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Range Rover Sport V8 Supercharged Dynamic2017 Land Rover",
-      "vin": "SALWR2FE9HA176302",
-      "stock": "JL12B07",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/7107d8ff59d1.html",
-      "source_url": "https://www.northshoreacura.ca/en/used-inventory/land-rover/range-rover-sport/2017-land-rover-range-rover-sport-id38501657",
-      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/land-rover/range-rover-sport/2017-land-rover-range-rover-sport-id38501657?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T23:11:23",
-      "odometer_km": 86100,
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -6139,6 +6033,21 @@
       "province": "BC"
     },
     {
+      "name": "CX-5 GX AWD at2013 Mazda",
+      "vin": "JM3KE4CE8D0144854",
+      "stock": "S115014",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/2cb84fb436ec.html",
+      "source_url": "https://www.northshoreacura.ca/en/used-inventory/mazda/cx-5/2013-mazda-cx-5-id39404828",
+      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/mazda/cx-5/2013-mazda-cx-5-id39404828?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-23T00:16:22",
+      "price": 11995.0,
+      "price_currency": "CAD",
+      "odometer_km": 199502,
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "CX-5 GT AWD at2017 Mazda",
       "vin": "JM3KFBDL5H0105322",
       "stock": "26451A",
@@ -6522,27 +6431,14 @@
       "province": "BC"
     },
     {
-      "name": "C300 4MATIC Coupe2021 Mercedes-Benz",
-      "vin": "W1KWJ8EB2MG101737",
-      "stock": "2766028",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/daf268823e4c.html",
-      "source_url": "https://www.northshoreacura.ca/en/used-inventory/mercedes-benz/c300/2021-mercedes-benz-c300-id39281849",
-      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/mercedes-benz/c300/2021-mercedes-benz-c300-id39281849?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T23:37:37",
-      "odometer_km": 42300,
-      "condition": "used",
-      "city": "North Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "C300 4MATIC Sedan2022 Mercedes-Benz",
-      "vin": "W1KAF4HB2NR056272",
-      "stock": "MB61716",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/75f1f9dd997f.html",
-      "source_url": "https://www.northshoreacura.ca/en/used-inventory/mercedes-benz/c300/2022-mercedes-benz-c300-id38868064",
-      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/mercedes-benz/c300/2022-mercedes-benz-c300-id38868064?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T23:37:52",
-      "odometer_km": 29246,
+      "name": "C300 4MATIC Sedan2023 Mercedes-Benz",
+      "vin": "W1KAF4HB3PR094595",
+      "stock": "MB51301",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/7dae569b2def.html",
+      "source_url": "https://www.northshoreacura.ca/en/used-inventory/mercedes-benz/c300/2023-mercedes-benz-c300-id39404786",
+      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/mercedes-benz/c300/2023-mercedes-benz-c300-id39404786?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-23T00:16:38",
+      "odometer_km": 43800,
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -7427,6 +7323,19 @@
       "province": "BC"
     },
     {
+      "name": "GLA250 4MATIC SUV2025 Mercedes-Benz",
+      "vin": "W1N4N4HB5SJ695212",
+      "stock": "MB51301",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/b9231cb9d7fd.html",
+      "source_url": "https://www.northshoreacura.ca/en/used-inventory/mercedes-benz/gla250/2025-mercedes-benz-gla250-id39404788",
+      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/mercedes-benz/gla250/2025-mercedes-benz-gla250-id39404788?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-23T00:16:53",
+      "odometer_km": 1581,
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "GLA250 SUV2026 Mercedes-Benz",
       "vin": "W1N4N4HB3TJ773827",
       "stock": "N116471",
@@ -7604,19 +7513,6 @@
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/mercedes-benz/glb250/2025-mercedes-benz-glb250-id39383778?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-19T02:43:25",
       "odometer_km": 3200,
-      "condition": "used",
-      "city": "North Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "GLB35 AMG 4MATIC SUV2022 Mercedes-Benz",
-      "vin": "W1N4M5BB8NW258216",
-      "stock": "MB61716",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/403eec6acb51.html",
-      "source_url": "https://www.northshoreacura.ca/en/used-inventory/mercedes-benz/glb35-amg/2022-mercedes-benz-glb35-amg-id39254513",
-      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/mercedes-benz/glb35-amg/2022-mercedes-benz-glb35-amg-id39254513?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T23:58:29",
-      "odometer_km": 13382,
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -7947,6 +7843,19 @@
       "province": "BC"
     },
     {
+      "name": "GLC300 4MATIC SUV2023 Mercedes-Benz",
+      "vin": "W1NKM4HBXPF054450",
+      "stock": "2651178",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/3f5c319c425c.html",
+      "source_url": "https://www.northshoreacura.ca/en/used-inventory/mercedes-benz/glc300/2023-mercedes-benz-glc300-id39404775",
+      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/mercedes-benz/glc300/2023-mercedes-benz-glc300-id39404775?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-23T00:17:08",
+      "odometer_km": 23205,
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "GLC300 4MATIC SUV2025 Mercedes-Benz",
       "vin": "W1NKM4HBXSF329680",
       "stock": "6T7452A",
@@ -8033,19 +7942,6 @@
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/mercedes-benz/glc300/2026-mercedes-benz-glc300-id39274918?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T00:06:32",
       "odometer_km": 17907,
-      "condition": "used",
-      "city": "North Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "GLC300 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM4HB4TF439478",
-      "stock": "2766322",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/7b0cc15c6b27.html",
-      "source_url": "https://www.northshoreacura.ca/en/used-inventory/mercedes-benz/glc300/2026-mercedes-benz-glc300-id39281931",
-      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/mercedes-benz/glc300/2026-mercedes-benz-glc300-id39281931?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T00:06:46",
-      "odometer_km": 17158,
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -8253,6 +8149,19 @@
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/mercedes-benz/gle350/2022-mercedes-benz-gle350-id39281943?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T00:10:33",
       "odometer_km": 47020,
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "GLE350 4MATIC SUV2022 Mercedes-Benz",
+      "vin": "4JGFB4KB6NA602439",
+      "stock": "26B7440",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/580df62313de.html",
+      "source_url": "https://www.northshoreacura.ca/en/used-inventory/mercedes-benz/gle350/2022-mercedes-benz-gle350-id39404843",
+      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/mercedes-benz/gle350/2022-mercedes-benz-gle350-id39404843?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-23T00:17:25",
+      "odometer_km": 95000,
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -8518,6 +8427,19 @@
       "province": "BC"
     },
     {
+      "name": "GLE450 4MATIC SUV2023 Mercedes-Benz",
+      "vin": "4JGFB5KB1PA956782",
+      "stock": "2652926",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/9857198c5880.html",
+      "source_url": "https://www.northshoreacura.ca/en/used-inventory/mercedes-benz/gle450/2023-mercedes-benz-gle450-id39404776",
+      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/mercedes-benz/gle450/2023-mercedes-benz-gle450-id39404776?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-23T00:17:39",
+      "odometer_km": 25000,
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "GLE450 4MATIC SUV2024 Mercedes-Benz",
       "vin": "4JGFB5KB7RB182941",
       "stock": "MB71703",
@@ -8552,19 +8474,6 @@
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/mercedes-benz/gle450/2025-mercedes-benz-gle450-id39184683?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T00:16:46",
       "odometer_km": 8297,
-      "condition": "used",
-      "city": "North Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "GLE450 4MATIC SUV2025 Mercedes-Benz",
-      "vin": "4JGFB5KB1SB332922",
-      "stock": "MB61716",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/de6143edd191.html",
-      "source_url": "https://www.northshoreacura.ca/en/used-inventory/mercedes-benz/gle450/2025-mercedes-benz-gle450-id39375294",
-      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/mercedes-benz/gle450/2025-mercedes-benz-gle450-id39375294?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T00:17:01",
-      "odometer_km": 13481,
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -8734,19 +8643,6 @@
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/mercedes-benz/gls450/2017-mercedes-benz-gls450-id39281925?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T00:20:19",
       "odometer_km": 98685,
-      "condition": "used",
-      "city": "North Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "GLS450 4MATIC SUV2020 Mercedes-Benz",
-      "vin": "4JGFF5KE3LA051534",
-      "stock": "2652614",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/d63622c0cb1e.html",
-      "source_url": "https://www.northshoreacura.ca/en/used-inventory/mercedes-benz/gls450/2020-mercedes-benz-gls450-id39246573",
-      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/mercedes-benz/gls450/2020-mercedes-benz-gls450-id39246573?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T00:20:34",
-      "odometer_km": 55000,
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -9225,6 +9121,19 @@
       "province": "BC"
     },
     {
+      "name": "Frontier Crew Cab PRO-4X 4x4 at2022 Nissan",
+      "vin": "1N6ED1EK0NN631123",
+      "stock": "27045A",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/2356e4da32ab.html",
+      "source_url": "https://www.northshoreacura.ca/en/used-inventory/nissan/frontier/2022-nissan-frontier-id39399465",
+      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/nissan/frontier/2022-nissan-frontier-id39399465?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-23T00:17:53",
+      "odometer_km": 63098,
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Frontier Crew Cab PRO-4X 4x4 at2023 Nissan",
       "vin": "1N6ED1EK7PN612832",
       "stock": "N214036",
@@ -9536,6 +9445,19 @@
       "province": "BC"
     },
     {
+      "name": "Qashqai SV AWD CVT2018 Nissan",
+      "vin": "JN1BJ1CR5JW258005",
+      "stock": "I26022B",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/4c08371588ee.html",
+      "source_url": "https://www.northshoreacura.ca/en/used-inventory/nissan/qashqai/2018-nissan-qashqai-id39393075",
+      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/nissan/qashqai/2018-nissan-qashqai-id39393075?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-23T00:18:09",
+      "odometer_km": 107135,
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Qashqai SV2021 Nissan",
       "vin": "JN1BJ1BW9MW446781",
       "stock": "26422A",
@@ -9607,19 +9529,6 @@
       "province": "BC"
     },
     {
-      "name": "Rogue SV2021 Nissan",
-      "vin": "5N1AT3BB0MC743494",
-      "stock": "N216026",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/9ee0136d1c41.html",
-      "source_url": "https://www.northshoreacura.ca/en/used-inventory/nissan/rogue/2021-nissan-rogue-id38093671",
-      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/nissan/rogue/2021-nissan-rogue-id38093671?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T00:35:38",
-      "odometer_km": 122268,
-      "condition": "used",
-      "city": "North Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Rogue Platinum2021 Nissan",
       "vin": "JN8AT3DD8MW310317",
       "stock": "N216030",
@@ -9646,6 +9555,19 @@
       "province": "BC"
     },
     {
+      "name": "Rogue Platinum CVT2021 Nissan",
+      "vin": "JN8AT3DD4MW300657",
+      "stock": "N226102",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/4b7f8cd6de6c.html",
+      "source_url": "https://www.northshoreacura.ca/en/used-inventory/nissan/rogue/2021-nissan-rogue-id39403993",
+      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/nissan/rogue/2021-nissan-rogue-id39403993?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-23T00:18:25",
+      "odometer_km": 63901,
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Rogue S AWD2022 Nissan",
       "vin": "5N1AT3AB2NC678277",
       "stock": "N216028",
@@ -9659,14 +9581,14 @@
       "province": "BC"
     },
     {
-      "name": "Rogue SV2023 Nissan",
-      "vin": "JN8BT3BB3PW217604",
-      "stock": "N226101",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/c82610d7737f.html",
-      "source_url": "https://www.northshoreacura.ca/en/used-inventory/nissan/rogue/2023-nissan-rogue-id38394205",
-      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/nissan/rogue/2023-nissan-rogue-id38394205?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T00:36:40",
-      "odometer_km": 56566,
+      "name": "Rogue SV AWD CVT2022 Nissan",
+      "vin": "JN8BT3BB5NW336316",
+      "stock": "N214035",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/71264237dacf.html",
+      "source_url": "https://www.northshoreacura.ca/en/used-inventory/nissan/rogue/2022-nissan-rogue-id39264187",
+      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/nissan/rogue/2022-nissan-rogue-id39264187?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-23T00:18:42",
+      "odometer_km": 63591,
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -9693,6 +9615,32 @@
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/nissan/rogue/2023-nissan-rogue-id39108542?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T00:37:27",
       "odometer_km": 20576,
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Rogue Platinum CVT2023 Nissan",
+      "vin": "JN8BT3DD8PW319446",
+      "stock": "N213036",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/e61ca3bb9022.html",
+      "source_url": "https://www.northshoreacura.ca/en/used-inventory/nissan/rogue/2023-nissan-rogue-id39393056",
+      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/nissan/rogue/2023-nissan-rogue-id39393056?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-23T00:18:57",
+      "odometer_km": 45066,
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Rogue SV AWD CVT (2)2023 Nissan",
+      "vin": "JN8BT3BB3PW217604",
+      "stock": "N116507",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/88e72e899394.html",
+      "source_url": "https://www.northshoreacura.ca/en/used-inventory/nissan/rogue/2023-nissan-rogue-id39403992",
+      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/nissan/rogue/2023-nissan-rogue-id39403992?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-23T00:19:15",
+      "odometer_km": 56566,
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -9849,6 +9797,19 @@
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/nissan/sentra/2025-nissan-sentra-id39340669?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T00:40:04",
       "odometer_km": 14987,
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Sentra SV CVT2025 Nissan",
+      "vin": "3N1AB8CV7SY225466",
+      "stock": "N226204",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/ea8e7a0159fe.html",
+      "source_url": "https://www.northshoreacura.ca/en/used-inventory/nissan/sentra/2025-nissan-sentra-id39403295",
+      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/nissan/sentra/2025-nissan-sentra-id39403295?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-23T00:19:28",
+      "odometer_km": 15000,
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -10612,19 +10573,6 @@
       "province": "BC"
     },
     {
-      "name": "Crosstrek Onyx CVT2025 Subaru",
-      "vin": "JF2GUHFCXSH330835",
-      "stock": "S261167",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/275621718428.html",
-      "source_url": "https://www.northshoreacura.ca/en/used-inventory/subaru/crosstrek/2025-subaru-crosstrek-id39274896",
-      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/subaru/crosstrek/2025-subaru-crosstrek-id39274896?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T00:56:13",
-      "odometer_km": 11610,
-      "condition": "used",
-      "city": "North Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Crosstrek Onyx CVT2026 Subaru",
       "vin": "JF2GUHFC1T8225893",
       "stock": "S115012",
@@ -11316,6 +11264,32 @@
       "province": "BC"
     },
     {
+      "name": "Forester Touring 2.5L CVT2026 Subaru",
+      "vin": "JF2SLDDC3TH462216",
+      "stock": "N216037",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/d3e1d2018242.html",
+      "source_url": "https://www.northshoreacura.ca/en/used-inventory/subaru/forester/2026-subaru-forester-id39404807",
+      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/subaru/forester/2026-subaru-forester-id39404807?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-23T00:19:44",
+      "odometer_km": 15898,
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Forester Touring 2.5L CVT2026 Subaru",
+      "vin": "JF2SLDDC5TH459706",
+      "stock": "N216037",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/96524c0072f8.html",
+      "source_url": "https://www.northshoreacura.ca/en/used-inventory/subaru/forester/2026-subaru-forester-id39404808",
+      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/subaru/forester/2026-subaru-forester-id39404808?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-23T00:19:57",
+      "odometer_km": 17505,
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Impreza 5Dr Convenience 5sp2023 Subaru",
       "vin": "4S3GTAA65P1705752",
       "stock": "S261169",
@@ -11378,19 +11352,6 @@
       "price": 7500.0,
       "price_currency": "CAD",
       "odometer_km": 152834,
-      "condition": "used",
-      "city": "North Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Outback 2.5L Limited2020 Subaru",
-      "vin": "4S4BTDNC3L3124207",
-      "stock": "S261312",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/04955b55cc33.html",
-      "source_url": "https://www.northshoreacura.ca/en/used-inventory/subaru/outback/2020-subaru-outback-id39281948",
-      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/subaru/outback/2020-subaru-outback-id39281948?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T01:13:26",
-      "odometer_km": 20359,
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -11643,6 +11604,19 @@
       "province": "BC"
     },
     {
+      "name": "Model 32021 Tesla",
+      "vin": "5YJ3E1EA8MF082671",
+      "stock": "26H1137",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/d7081f4d2921.html",
+      "source_url": "https://www.northshoreacura.ca/en/used-inventory/tesla/model-3/2021-tesla-model-3-id39404757",
+      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/tesla/model-3/2021-tesla-model-3-id39404757?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-23T00:20:12",
+      "odometer_km": 50675,
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
       "name": "Model 3 RWD2022 Tesla",
       "vin": "5YJ3E1EA1NF208225",
       "stock": "27B8541",
@@ -11708,19 +11682,6 @@
       "province": "BC"
     },
     {
-      "name": "Model X2024 Tesla",
-      "vin": "7SAXCDE54RF457560",
-      "stock": "H22F002",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/9c2746e6ccad.html",
-      "source_url": "https://www.northshoreacura.ca/en/used-inventory/tesla/model-x/2024-tesla-model-x-id39124227",
-      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/tesla/model-x/2024-tesla-model-x-id39124227?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T01:20:00",
-      "odometer_km": 41441,
-      "condition": "used",
-      "city": "North Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Model Y Performance2021 Tesla",
       "vin": "5YJYGDEF4MF202124",
       "stock": "2664993",
@@ -11742,19 +11703,6 @@
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/tesla/model-y/2021-tesla-model-y-id39375247?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-18T01:00:51",
       "odometer_km": 47251,
-      "condition": "used",
-      "city": "North Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "Model Y Performance2022 Tesla",
-      "vin": "7SAYGDEF7NF544221",
-      "stock": "MB71303",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/a277fe4a22a9.html",
-      "source_url": "https://www.northshoreacura.ca/en/used-inventory/tesla/model-y/2022-tesla-model-y-id39387576",
-      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/tesla/model-y/2022-tesla-model-y-id39387576?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T20:07:28",
-      "odometer_km": 73200,
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -11874,6 +11822,21 @@
       "price": 7999.0,
       "price_currency": "CAD",
       "odometer_km": 185797,
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Corolla 4-door Sedan LE CVTi-S2015 Toyota",
+      "vin": "2T1BURHE4FC466028",
+      "stock": "26402A",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/6590d2e9e514.html",
+      "source_url": "https://www.northshoreacura.ca/en/used-inventory/toyota/corolla/2015-toyota-corolla-id39399464",
+      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/toyota/corolla/2015-toyota-corolla-id39399464?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-23T00:20:27",
+      "price": 17995.0,
+      "price_currency": "CAD",
+      "odometer_km": 109946,
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -12132,19 +12095,6 @@
       "province": "BC"
     },
     {
-      "name": "Prius Plug-in Hybrid SE2024 Toyota",
-      "vin": "JTDACACU6R3021544",
-      "stock": "A215012",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/89719b1fe5da.html",
-      "source_url": "https://www.northshoreacura.ca/en/used-inventory/toyota/prius-plug-in-hybrid/2024-toyota-prius-plug-in-hybrid-id39399262",
-      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/toyota/prius-plug-in-hybrid/2024-toyota-prius-plug-in-hybrid-id39399262?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T03:30:43",
-      "odometer_km": 4930,
-      "condition": "used",
-      "city": "North Vancouver",
-      "province": "BC"
-    },
-    {
       "name": "Prius Prime SE2023 Toyota",
       "vin": "JTDACACUXP3009426",
       "stock": "2665391",
@@ -12153,6 +12103,19 @@
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/toyota/prius-prime/2023-toyota-prius-prime-id39274862?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T01:26:09",
       "odometer_km": 84801,
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "Prius Prime SE2024 Toyota",
+      "vin": "JTDACACU6R3021544",
+      "stock": "A215012",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/03148f2811dd.html",
+      "source_url": "https://www.northshoreacura.ca/en/used-inventory/toyota/prius-prime/2024-toyota-prius-prime-id39399262",
+      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/toyota/prius-prime/2024-toyota-prius-prime-id39399262?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-23T00:20:40",
+      "odometer_km": 4930,
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -12178,21 +12141,6 @@
       "source_url": "https://www.northshoreacura.ca/en/used-inventory/toyota/rav4-plug-in-hybrid/2026-toyota-rav4-plug-in-hybrid-id39018205",
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/toyota/rav4-plug-in-hybrid/2026-toyota-rav4-plug-in-hybrid-id39018205?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T01:26:25",
-      "condition": "used",
-      "city": "North Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "RAV4 AWD XLE2014 Toyota",
-      "vin": "2T3RFREV3EW127388",
-      "stock": "L26696B",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/ae861bc4756e.html",
-      "source_url": "https://www.northshoreacura.ca/en/used-inventory/toyota/rav4/2014-toyota-rav4-id39387625",
-      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/toyota/rav4/2014-toyota-rav4-id39387625?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T20:08:30",
-      "price": 14999.0,
-      "price_currency": "CAD",
-      "odometer_km": 211000,
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -12245,19 +12193,6 @@
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/toyota/rav4/2025-toyota-rav4-id39055792?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T01:27:11",
       "odometer_km": 28534,
-      "condition": "used",
-      "city": "North Vancouver",
-      "province": "BC"
-    },
-    {
-      "name": "RAV4 XLE AWD w/Premium Package2025 Toyota",
-      "vin": "2T3R1RFV5SW560039",
-      "stock": "A215011",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/1a0a77cd80d1.html",
-      "source_url": "https://www.northshoreacura.ca/en/used-inventory/toyota/rav4/2025-toyota-rav4-id39267820",
-      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/toyota/rav4/2025-toyota-rav4-id39267820?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T01:27:27",
-      "odometer_km": 12899,
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
@@ -12316,11 +12251,11 @@
     {
       "name": "Sienna XLE AWD 7-Passenger V62017 Toyota",
       "vin": "5TDDZ3DC8HS187462",
-      "stock": "H32E002",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/13264517d76c.html",
-      "source_url": "https://www.northshoreacura.ca/en/used-inventory/toyota/sienna/2017-toyota-sienna-id39354863",
-      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/toyota/sienna/2017-toyota-sienna-id39354863?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T01:29:12",
+      "stock": "H32E000",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/3d5be10a7cc2.html",
+      "source_url": "https://www.northshoreacura.ca/en/used-inventory/toyota/sienna/2017-toyota-sienna-id39308961",
+      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/toyota/sienna/2017-toyota-sienna-id39308961?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-23T00:20:55",
       "odometer_km": 76900,
       "condition": "used",
       "city": "North Vancouver",
@@ -12530,6 +12465,19 @@
       "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/volkswagen/golf/2021-volkswagen-golf-id38967665?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T01:32:47",
       "odometer_km": 122948,
+      "condition": "used",
+      "city": "North Vancouver",
+      "province": "BC"
+    },
+    {
+      "name": "ID.4 Pro S2024 Volkswagen",
+      "vin": "1V29SPE84RC022540",
+      "stock": "G12E004",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/4ae941125764.html",
+      "source_url": "https://www.northshoreacura.ca/en/used-inventory/volkswagen/id.4/2024-volkswagen-id.4-id39404307",
+      "dealer_url": "https://www.northshoreacura.ca/en/used-inventory/volkswagen/id.4/2024-volkswagen-id.4-id39404307?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-23T00:21:10",
+      "odometer_km": 36427,
       "condition": "used",
       "city": "North Vancouver",
       "province": "BC"
