@@ -1,6 +1,6 @@
 {
   "dealership": "North Shore Acura",
-  "generated_at": "2026-10-25T16:41:11",
+  "generated_at": "2026-10-25T16:46:58",
   "vehicle_count": 1114,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -6061,7 +6061,7 @@
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
       "vin": "3HDSA2H7XTM101727",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/188efe836d49.html",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/069f91197bb7.html",
       "condition": "new"
     },
     {
@@ -6474,6 +6474,12 @@
     },
     {
       "name": "Integra Elite A-Spec CVT2026 Acura",
+      "vin": "19UDE4H67TA800863",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/0c9960f97681.html",
+      "condition": "new"
+    },
+    {
+      "name": "Integra Elite A-Spec CVT2026 Acura",
       "vin": "19UDE4H61TA800874",
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/ada50fcbfab3.html",
       "condition": "new"
@@ -6643,7 +6649,7 @@
     {
       "name": "MDX Platinum Elite2026 Acura",
       "vin": "5J8YE1H96TL804384",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/29cb03c88fa2.html",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/5d98ca5dd1fe.html",
       "condition": "new"
     },
     {
@@ -6656,12 +6662,6 @@
       "name": "MDX A-SPEC2026 Acura",
       "vin": "5J8YE1H08TL804985",
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/b06d9d8e1c60.html",
-      "condition": "new"
-    },
-    {
-      "name": "MDX A-SPEC2026 Acura",
-      "vin": "5J8YE1H04TL804823",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/a9619031bc4e.html",
       "condition": "new"
     },
     {
