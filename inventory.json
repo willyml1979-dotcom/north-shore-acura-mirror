@@ -1,6 +1,6 @@
 {
   "dealership": "North Shore Acura",
-  "generated_at": "2026-10-26T02:08:32",
+  "generated_at": "2026-10-26T10:43:34",
   "vehicle_count": 1100,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -549,6 +549,12 @@
       "name": "i4 M50 xDrive2024 BMW",
       "vin": "WBY33AW05RFR68265",
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/eb3d9d275b67.html",
+      "condition": "used"
+    },
+    {
+      "name": "i4 xDrive40 Gran Coupe2025 BMW",
+      "vin": "WBY43HD09SFT91911",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/a39837218f6a.html",
       "condition": "used"
     },
     {
@@ -5967,7 +5973,7 @@
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
       "vin": "3HDSA2H7XTM101727",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/069f91197bb7.html",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/188efe836d49.html",
       "condition": "new"
     },
     {
@@ -6484,12 +6490,6 @@
       "name": "MDX Type S Ultra2026 Acura",
       "vin": "5J8YD8H89TL800218",
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/a50f37838aa3.html",
-      "condition": "new"
-    },
-    {
-      "name": "MDX Platinum Elite2026 Acura",
-      "vin": "5J8YE1H94TL803301",
-      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/7d6c9ae783f9.html",
       "condition": "new"
     },
     {
