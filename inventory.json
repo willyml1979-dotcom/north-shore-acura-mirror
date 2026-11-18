@@ -1,7 +1,7 @@
 {
   "dealership": "North Shore Acura",
-  "generated_at": "2026-11-18T13:15:49",
-  "vehicle_count": 1148,
+  "generated_at": "2026-11-18T13:22:40",
+  "vehicle_count": 1154,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -6677,6 +6677,18 @@
       "condition": "new"
     },
     {
+      "name": "ADX A-SPEC2026 Acura",
+      "vin": "3HDSA2H51TM104661",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/ff45e288123d.html",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H77TM104679",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/723972faaf13.html",
+      "condition": "new"
+    },
+    {
       "name": "Integra Elite A-Spec CVT2025 Acura",
       "vin": "19UDE4H67SA800439",
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/e4a44def06c7.html",
@@ -6932,6 +6944,30 @@
       "name": "MDX Type S Ultra2026 Acura",
       "vin": "5J8YD8H82TL800397",
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/6a15803c434a.html",
+      "condition": "new"
+    },
+    {
+      "name": "MDX Platinum Elite2026 Acura",
+      "vin": "5J8YE1H92TL806178",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/4b1f16d107cf.html",
+      "condition": "new"
+    },
+    {
+      "name": "MDX Platinum Elite2026 Acura",
+      "vin": "5J8YE1H98TL806069",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/49c3cd628db0.html",
+      "condition": "new"
+    },
+    {
+      "name": "MDX Type S Ultra2026 Acura",
+      "vin": "5J8YD8H84TL800434",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/a69585578639.html",
+      "condition": "new"
+    },
+    {
+      "name": "MDX A-SPEC2026 Acura",
+      "vin": "5J8YE1H03TL805607",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/7cedfd807a1d.html",
       "condition": "new"
     },
     {
