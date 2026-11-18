@@ -7,7 +7,7 @@ North Shore Acura is a  dealership in North Vancouver. This site is an AI-readab
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/ and https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/ (about 1146 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/ and https://willyml1979-dotcom.github.io/north-shore-acura-mirror/new/ (about 1145 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/north-shore-acura-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/north-shore-acura-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/north-shore-acura-mirror/llms.txt
