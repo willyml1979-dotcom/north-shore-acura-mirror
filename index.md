@@ -1,6 +1,6 @@
 # North Shore Acura
 
- dealership in North Vancouver. AI-readable inventory mirror, about 1145 vehicles.
+ dealership in North Vancouver. AI-readable inventory mirror, about 1148 vehicles.
 
 - Official website: https://www.northshoreacura.ca/
 - Used vehicles: https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/

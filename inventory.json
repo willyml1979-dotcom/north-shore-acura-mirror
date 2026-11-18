@@ -1,7 +1,7 @@
 {
   "dealership": "North Shore Acura",
-  "generated_at": "2026-11-18T04:25:57",
-  "vehicle_count": 1145,
+  "generated_at": "2026-11-18T13:15:49",
+  "vehicle_count": 1148,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -210,6 +210,12 @@
       "condition": "used"
     },
     {
+      "name": "RDX SH-AWD A-Spec2023 Acura",
+      "vin": "5J8TC2H61PL804181",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/2c347d6721c4.html",
+      "condition": "used"
+    },
+    {
       "name": "RDX A-Spec SH-AWD2024 Acura",
       "vin": "5J8TC2H69RL802617",
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/650ae8e22fd9.html",
@@ -275,6 +281,12 @@
       "name": "TLX SH-AWD A-Spec2022 Acura",
       "vin": "19UUB6F54NA800434",
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/8233612d2090.html",
+      "condition": "used"
+    },
+    {
+      "name": "TLX A-Spec SH-AWD2023 Acura",
+      "vin": "19UUB6F57PA800382",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/40cc3a7b7b73.html",
       "condition": "used"
     },
     {
@@ -3310,6 +3322,12 @@
       "name": "EQB300 4MATIC SUV2025 Mercedes-Benz",
       "vin": "W1N9M0KB6SN131152",
       "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/f362c90c02dc.html",
+      "condition": "used"
+    },
+    {
+      "name": "EQB300 4MATIC SUV2025 Mercedes-Benz",
+      "vin": "W1N9M0KB1SN129132",
+      "url": "https://willyml1979-dotcom.github.io/north-shore-acura-mirror/used/293618d7e9d4.html",
       "condition": "used"
     },
     {
